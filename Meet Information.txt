@@ -1,0 +1,9 @@
+From Me to Everyone 12:53 PM
+Name
+Age
+Address
+Ethnicity
+if(headache && loss of aptite) prediction=0.65;
+
+
+
